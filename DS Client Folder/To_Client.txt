@@ -1,0 +1,7 @@
+HHM
+
+The Universe falls in Love with a stubborn mind!
+
+This simple file is to test the file upload functionallity.
+
+This file is to be transmitted to the Client Folder from Server Folder
